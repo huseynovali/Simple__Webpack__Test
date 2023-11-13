@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
         <Navbar/>
-      <h1>Hello, React App!</h1>
+      <h1 className='bg-slate-500 text-sm'>Hello, React App!</h1>
       <p>salam</p>
     </div>
   );
